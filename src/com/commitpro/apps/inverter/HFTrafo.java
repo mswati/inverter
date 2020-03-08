@@ -1,4 +1,4 @@
-package src.com.commitpro.apps.inverter;
+package com.commitpro.apps.inverter;
 
 import java.util.concurrent.TimeUnit;
 
